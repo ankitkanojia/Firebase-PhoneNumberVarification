@@ -1,4 +1,4 @@
-# Firebase-PhoneNumberVarification
+# Firebase - Phone Number Varification
 
 ##### STEP - 1 :  Configured Firebase credentails in React application
 
