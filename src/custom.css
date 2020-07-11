@@ -20,3 +20,6 @@ body {
   .form{
       padding-top: 20px;
   }
+  .react-tel-input > input{
+    width: 100% !important;
+  }
