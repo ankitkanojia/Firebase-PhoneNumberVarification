@@ -1,6 +1,6 @@
 {
-  "name": "react-fcm",
-  "version": "0.1.0",
+  "name": "firebase-phoneNumbervarification",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "firebase": "^7.16.0",
